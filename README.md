@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+The code published here is just for viewing purposes
+© Unboxify 2023 || Phoenix Retail Inc Owned
+
 <!--
 **unboxify/unboxify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
